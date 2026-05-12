@@ -15,7 +15,7 @@
 感谢您的支持与理解，每一份反馈都是让插件变得更好的动力 ❤️
 
 ### 🔗 官方链接
-- 💬 **插件 QQ 交流群**：[点击加入](https://qm.qq.com/q/hLydaPzuPS)
+- 💬 **插件 QQ 交流群**：[点击加入](https://qm.qq.com/q/CihYemKufS)
 - ☕ **爱发电赞助**：[支持我们](https://ifdian.net/item/012b6c1c4a0911f18d1b52540025c377)
 
 ### 🧾 使用此插件的服务器信息
@@ -36,7 +36,7 @@ If you encounter any issues, bugs, or have suggestions while using **YuPay**, pl
 Thank you for your support and understanding – every piece of feedback helps make the plugin better ❤️
 
 ### 🔗 Official Links
-- 💬 **Plugin QQ Group**: [Click to join](https://qm.qq.com/q/hLydaPzuPS)
+- 💬 **Plugin QQ Group**: [Click to join](https://qm.qq.com/q/CihYemKufS)
 - ☕ **Sponsor via AiFaDian**: [Support us](https://ifdian.net/item/012b6c1c4a0911f18d1b52540025c377)
 
 ### 🧾 Server Information Using This Plugin
